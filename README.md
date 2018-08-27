@@ -1,2 +1,2 @@
 # 0main_openSAP_repro
-Main repository new web IDE demo
+Main repository for [openSAP](http://opensap.com) new web IDE demo
